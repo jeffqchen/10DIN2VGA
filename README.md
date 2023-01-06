@@ -4,7 +4,9 @@
 
 This is a 10-pin mini DIN to VGA dongle that supports outputting RGBS or S-video & composite video signal, plus stereo audio, from a Sega Saturn.
 
-The RGBS signal is compatible with 75-ohm terminated SCART video. The S-video & composite video signals are directly output from the console.
+The RGBS signal is compatible with 75-ohm terminated SCART video.
+
+The S-video & composite video signals are directly output from the console.
 
 ## Functionality
 
@@ -20,7 +22,7 @@ When configured to RGBS mode, you can opt to use C-Sync when using with an NTSC 
 
 ### S-Video/Composite Video Adapter Configuration
 
-When configured to adapter mode, you can use the widely available VGA to S-Video/CVBS adapter to output the aformentioned video format.
+When configured to adapter mode, you can use the widely available and cheap VGA to S-Video/CVBS adapter from Amazon to output the aformentioned video format.
 
 <img src="./Pics/yc-c_adapter.jpg" width=600px>
 
@@ -40,7 +42,7 @@ Most 10-pin DIN ports on the Saturn are badly damaged due to bad attempts to ins
 
 Due to the position of the port, the strain from the video cable will stress the connector and reduce the life of the port.
 
-The design of this dongle elimiates all the aformentioned problems.
+The design of this dongle eliminates all the aforementioned problems.
 
 <img src="./Pics/design_01_front.jpg" width=300px><img src="./Pics/design_02_top.jpg" width=300px>
 
@@ -52,7 +54,7 @@ The shape of the inside shell conforms to the indented area around the AV port o
 
 <img src="./Pics/3d_demo_1.jpg" width=200px><img src="./Pics/3d_demo_2.jpg" width=200px><img src="./Pics/3d_demo_3.jpg" width=200px>
 
-The VGA port stands vertically, which ensures that it's strong against downward stress itself, as well as avoiding a rotationaly pulling tendency that could pull the 10-pin DIN connector out of the console.
+The VGA port stands vertically, which ensures that it's strong against downward stress itself, as well as avoiding a rotationally pulling tendency that could pull the 10-pin DIN connector out of the console.
 
 The optional 3.5mm audio jack was carefully positioned so that it doesn't block the communication port.
 
@@ -69,13 +71,14 @@ The power jack was also avoided, including the launch version with a slightly pr
 - 3D Printed Shell
   - Front Shell (Universal)
   - Back Shell (Choose one according to your configuration)
-    - RGBS Marking
-    - Y/C & C Marking
-    - No Marking
+    - [RGBS Marking](./3D%20Print/Shell%20Back-RGB.stl)
+    - [Y/C & C Marking](./3D%20Print/Shell%20Back-YC.stl)
+    - [No Marking](./3D%20Print/Shell%20Back.stl)
 
 - VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 
-- 10-Pin Mini DIN, Through-Hole
+- 10 pin Mini DIN Male Plug, Through-Hole Type - [Link]
+(https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/10Pin/Through%20Hole/info.md)
 
 - M2-16mm screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
@@ -174,7 +177,7 @@ Solder down the tongue on the top of the DIN with some solder, so the connector 
 
 Add some solder to the curvy ground pads around the 10DIN. Make sure the solder is well-wetted to both the pads and the metal shielding.
 
-*You might have to raise the temperature of your iron by a few dozens of celcius if you usually solder at a lower temperature. I went from 370 to 400.*
+*You might have to raise the temperature of your iron by a few dozens of degrees in Celsius if you usually solder at a lower temperature. I went from 370 to 400.*
 
 <img src="./Pics/assembly_10din_02.jpg" width=400px><img src="./Pics/assembly_10din_03.jpg" width=400px>
 
@@ -207,7 +210,7 @@ Close the jumpers to the upper position (without triangle) on the main board. Cl
 
 ### Solder 3.5mm Audio Jack
 
-Insert the 3.5mm audio jack into the main PCB fromo the "Outside".
+Insert the 3.5mm audio jack into the main PCB from the "Outside".
 
 Make sure it's flush to the PCB, then solder in two pins with a small amount of solder.
 
@@ -250,3 +253,15 @@ The screw head should be flush or slightly below the back surface of the dongle 
 And you have built the dongle!
 
 <img src="./Pics/cover.jpg" width=800px>
+
+----------------
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
