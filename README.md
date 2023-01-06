@@ -1,6 +1,6 @@
 # 10DIN2VGA Multi-Purpose Dongle
 
-
+[[./Pics/cover.jpg|width=800px]]
 
 This is a 10-pin mini DIN to VGA dongle that supports outputting RGBS or S-video & composite video signal, plus stereo audio.
 
