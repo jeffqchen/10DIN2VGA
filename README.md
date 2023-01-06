@@ -99,7 +99,11 @@ Print the parts in the orientation shown below. Support is required and must be 
 
 #### Front Shell
 
-There will be a small piece of support material stuck inside the cavity designed for a hidden nut. You need to extrac that support material in order for the nut to go in. A dental pick will work nicely. A pair of tweezers with sharp tips might work as well.
+There will be a small piece of support material stuck inside the cavity designed for a hidden nut.
+
+You must extrac that support material in order for the nut to go in.
+
+A dental pick will work nicely. A pair of tweezers with sharp tips might work as well.
 
 <img src="./Pics/front_nut_1.jpg" width=400px>
 
