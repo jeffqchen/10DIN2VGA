@@ -38,7 +38,7 @@ The 10-pin mini DIN connector on the Sega Saturn has several problems.
 
 The biggest one is that there is only one correct way to insert it, and infinite wrong ways to attempt. There is also no easy way to tell whether you are holding it correctly without triple checking with your eyes. It's also very difficult to maintain the correct orientation during insertion, even after you've confirmed it.
 
-Most 10-pin DIN ports on the Saturn are badly damaged due to bad attempts to insert a video cable. Combined with too much force applied, the connector are frequently broken.
+Most 10-pin DIN ports on the Saturn are badly damaged due to bad attempts to insert a video cable. Combined with too much force applied, the connector is frequently broken.
 
 Due to the position of the port, the strain from the video cable will stress the connector and reduce the life of the port.
 
