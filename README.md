@@ -30,7 +30,7 @@ Make sure the pinout of your adapter is as the following diagram:
 
 <img src="./Pics/adapter_pinout.jpg" width=600px>
 
-*It is possible to modify the solder jumpers to change the adapter between the two configurations. However it's not recommended to repeatedly taking this dongle apart for that purpose, as the structure integrity might become compromised.*
+*It is possible to modify the solder jumpers to change the adapter between the two configurations. However it's not recommended to repeatedly taking this dongle apart for that purpose, as the structural integrity might become compromised.*
 
 ## Design Details
 
