@@ -220,7 +220,7 @@ Make sure it's flush to the PCB, then solder in two pins with a small amount of 
 
 <img src="./Pics/assembly_audio_01.jpg" height=400px>
 
-Trim all the protruding legs. Make sure they are as short as possible, but there's no need to go crazy and make it flush.
+Trim all the protruding legs. Make sure they are as short as possible, but there's no need to go crazy to make it flush.
 
 <img src="./Pics/assembly_audio_02.jpg" height=400px>
 
