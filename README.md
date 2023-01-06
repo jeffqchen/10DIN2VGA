@@ -40,7 +40,7 @@ The biggest one is that there is only one correct way to insert it, and infinite
 
 Most 10-pin DIN ports on the Saturn are badly damaged due to bad attempts to insert a video cable. Combined with too much force applied, the connector is frequently broken.
 
-Due to the position of the port, the strain from the video cable will stress the connector and reduce the life of the port.
+Due to the position of the port, the strain from the video cable will stress the connector and make the connection unreliable, or even reduce the life of the port and/or the cable.
 
 The design of this dongle eliminates all the aforementioned problems.
 
