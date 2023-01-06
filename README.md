@@ -77,8 +77,7 @@ The power jack was also avoided, including the launch version with a slightly pr
 
 - VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 
-- 10 pin Mini DIN Male Plug, Through-Hole Type - [Link]
-(https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/10Pin/Through%20Hole/info.md)
+- 10 pin Mini DIN Male Plug, Through-Hole Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/10Pin/Through%20Hole/info.md)
 
 - M2-16mm screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
