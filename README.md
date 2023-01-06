@@ -74,6 +74,8 @@ The power jack was also avoided, including the launch version with a slightly pr
     - [RGBS Marking](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Shell%20Back-RGB.stl)
     - [Y/C & C Marking](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Shell%20Back-YC.stl)
     - [No Marking](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Shell%20Back.stl)
+  - [Insert](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Insert.stl)
+  
 
 - VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 
