@@ -52,7 +52,7 @@ The shape of the outside shell makes it easy to tell which way it's facing. Make
 
 The shape of the inside shell conforms to the indented area around the AV port on the console, with the bottom of the dongle flat and flush with the table. This will ensure there is only one way to plug in the adapter. Since the adapter tightly follows the outline of the shell, rotational stress and downward stress are effectively offloaded to the shell of the console, as well as making it impossible to insert the connector too far into the console.
 
-<img src="./Pics/3d_demo_1.jpg" width=200px><img src="./Pics/3d_demo_2.jpg" width=200px><img src="./Pics/3d_demo_3.jpg" width=200px>
+<img src="./Pics/3d_demo_1.jpg" width=300px><img src="./Pics/3d_demo_2.jpg" width=300px><img src="./Pics/3d_demo_3.jpg" width=300px>
 
 The VGA port stands vertically, which ensures that it's strong against downward stress itself, as well as avoiding a rotationally pulling tendency that could pull the 10-pin DIN connector out of the console.
 
@@ -71,9 +71,9 @@ The power jack was also avoided, including the launch version with a slightly pr
 - 3D Printed Shell
   - Front Shell (Universal)
   - Back Shell (Choose one according to your configuration)
-    - [RGBS Marking](./3D%20Print/Shell%20Back-RGB.stl)
-    - [Y/C & C Marking](./3D%20Print/Shell%20Back-YC.stl)
-    - [No Marking](./3D%20Print/Shell%20Back.stl)
+    - [RGBS Marking](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Shell%20Back-RGB.stl)
+    - [Y/C & C Marking](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Shell%20Back-YC.stl)
+    - [No Marking](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Shell%20Back.stl)
 
 - VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 
