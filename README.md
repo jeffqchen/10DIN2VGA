@@ -169,8 +169,7 @@ Nothing Special, just make sure it's all the way flush to the VGA board.
 
 ### Solder 10-pin Mini DIN Port
 
-Pre-tin the two curvy ground pads around the 10DIN footprint on the 
-Saturn Side" of the main board with a small amount of solder, then wick them clean. Make sure the pads are as flat as possbile.
+Pre-tin the two curvy ground pads around the 10DIN footprint on the "Saturn Side" of the main board with a small amount of solder, then wick them clean. Make sure the pads are as flat as possbile.
 
 <img src="./Pics/assembly_pcb_0.jpg" width=400px>
 
