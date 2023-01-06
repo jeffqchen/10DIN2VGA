@@ -79,6 +79,8 @@ The power jack was also avoided, including the launch version with a slightly pr
 
 - 10 pin Mini DIN Male Plug, Through-Hole Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/10Pin/Through%20Hole/info.md)
 
+- 3.5mm Headphone Jack, Vertical - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/3.5mm%20Audio%20Jack/Vertical%205-Pin%20PCB/info.md)
+
 - [2x] SMD Capacitor, 10uF / 6.3V / Imperial 0603 Size
 
 - M2-16mm screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
