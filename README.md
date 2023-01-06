@@ -135,7 +135,7 @@ Trim all the stubs sticking out side the PCB profile. Side cutters and files are
 
 The Two PCBs must be combined in a perfect perpendicular shape. With the help of the 3D printed insert piece, you can easily get this done.
 
-Start by insert the VGA board all the way into the slot in the main board. There should be NO gap.
+Start by inserting the VGA board all the way into the slot in the main board. There should be NO gap.
 
 <img src="./Pics/assembly_pcb_0.jpg" width=400px>
 
