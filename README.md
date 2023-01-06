@@ -107,7 +107,7 @@ Print the parts in the orientation shown below. Support is required and must be 
 
 There will be a small piece of support material stuck inside the cavity designed for a hidden nut.
 
-You must extrac that support material in order for the nut to go in.
+You must extract that piece of support material in order for the nut to go in.
 
 A dental pick will work nicely. A pair of tweezers with sharp tips might work as well.
 
