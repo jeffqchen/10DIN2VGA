@@ -69,7 +69,7 @@ The power jack was also avoided, including the launch version with a slightly pr
   - [VGA Board](https://oshpark.com/projects/xInxeNXi)
   
 - 3D Printed Shell
-  - [Front Shell (Universal)](3.5mm Headphone Jack, Vertical - [Link](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Shell%20Front.stl)
+  - [Front Shell (Universal)](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Shell%20Front.stl)
   - Back Shell (Choose one according to your configuration)
     - [RGBS Marking](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Shell%20Back-RGB.stl)
     - [Y/C & C Marking](https://github.com/jeffqchen/10DIN2VGA/blob/main/3D%20Print/Shell%20Back-YC.stl)
