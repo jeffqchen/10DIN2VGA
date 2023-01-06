@@ -248,3 +248,5 @@ The screw head should be flush or slightly below the back surface of the dongle 
 <img src="./Pics/assembly_shell_4.jpg" height=400px>
 
 And you have built the dongle!
+
+<img src="./Pics/cover.jpg" width=800px>
