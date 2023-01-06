@@ -248,7 +248,7 @@ Push down the PCB all the way. Use the 3.5mm jack as a reference. The port shoul
 
 Close the front shell onto the assembly. Hold the shells together with one hand, and put the M2-16mm screw in.
 
-When it begins to feel harder to turn the screw driver, start using only 3 fingers to turn the screw driver in order to prevent over-tightening it and crack the front shell.
+When it begins to feel harder to turn the screw driver, start using only 3 fingers to turn the screw driver in order to prevent over-tightening it and cracking the front shell.
 
 The screw head should be flush or slightly below the back surface of the dongle as shown below.
 
@@ -257,6 +257,16 @@ The screw head should be flush or slightly below the back surface of the dongle 
 And you have built the dongle!
 
 <img src="./Pics/cover.jpg" width=800px>
+
+#### Double Down On Strength
+
+I've left a few gaps around the 10-pin DIN connector barrel. You may inject small amounts of super glue or even epoxy to make it indestructible. I didn't feel the necessity personally, but just in case your printer came out with a piece that's slightly loose.
+
+<img src="./Pics/assembly_shell_4.jpg" height=400px>
+
+#### If the 10-pin DIN Barrel Was Impossible To Push In
+
+Your printer might give you a print with the barrel cavity being too tight. You can try using "Hole Horizontal Expansion" in Cura (or an equivalent option in other slicer software) to give it a 0.1mm expansion.
 
 ----------------
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
