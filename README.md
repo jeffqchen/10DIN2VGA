@@ -8,6 +8,8 @@ The RGBS signal is compatible with 75-ohm terminated SCART video.
 
 The S-video & composite video signals are directly output from the console.
 
+This dongle belongs to my endeavour of [Console VGA Dongles Series](https://github.com/jeffqchen/Console-VGA-Dongle-Series/blob/main/README.md).
+
 ## Functionality
 
 You need to decide the configuration of this dongle during assembly, by closing corresponding jumpers on the PCBs.
