@@ -22,7 +22,7 @@ The RGBS mode is the primary objective of this project.
 
 When configured to RGBS mode, you can opt to use C-Sync when using with an NTSC console, or use either Luma or composite video as sync for compatibility with PAL consoles.
 
-### S-Video/Composite Video Adapter Configuration
+### S-Video/Composite Video Adapter Configuration (Optional)
 
 When configured to adapter mode, you can use the widely available and cheap VGA to S-Video/CVBS adapter from Amazon to output the aformentioned video format.
 
