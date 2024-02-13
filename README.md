@@ -93,7 +93,7 @@ The power jack was also avoided, including the launch version with a slightly pr
 ### Optional
 
 For CSync configuration on NTSC console
-- SMD Capacitor, 100uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/100uF%20SMD%20Cap/info.md)
+- SMD Capacitor, 220uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)
 
 - SMD Resistor, 470 Ohm / Imperial 0603 Size
 
